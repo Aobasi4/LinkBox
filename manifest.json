@@ -1,0 +1,11 @@
+{
+    "name": "LinkBox",
+    "version": "1.0.0",
+    "description": "A Helpful tool for storing commonly used links",
+    "manifest_version": 3,
+    "author": "Amara Obasi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "LinkBox"
+    }
+}
